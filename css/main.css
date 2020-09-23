@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background-color: rgb(228, 117, 117);
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-size: 200px;
+    margin: 0;
+}
